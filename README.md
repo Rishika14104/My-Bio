@@ -50,3 +50,13 @@
 [Kosireddy_Rishika](https://github.com/Rishika14104)
 
 ![Rishika_Image](/images/VCET.avif)
+
+
+
+
+x + y = 5
+
+$x + y = 5$, $x + y = 5$, $x + y = 5$
+
+
+$$x + y = 5$$
